@@ -3,4 +3,7 @@
 conf/
 *.so
 *.exe
+/file/*
 
+/learn/myhttp/main/dial_s.go
+*.mp3
